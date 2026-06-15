@@ -37,7 +37,7 @@
 - [Understanding SCADA's Modbus Protocol](https://www.youtube.com/watch?v=oVDYaG2HInU) - Justin Searle @ Black Hat Asia (2015)
 - [Unraveling SCADA Protocols Using Sulley Fuzzer](https://www.youtube.com/watch?v=UUta_Ord8GI) - Ganesh Devarajan @ DEF CON 15 (2014)
 ## Tools
-- [aem-modbus-simulator](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Python Modbus RTU/TCP slave simulator with realistic 147-register industrial DC monitor map. Useful as a Modbus target for protocol research, fuzzing campaigns, and IDS rule validation without physical hardware.
+- [aem-modbus-simulator](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Modbus RTU/TCP slave simulator for the LRI AEM-60DC8 industrial DC monitor
 - [ctmodbus](https://github.com/ControlThings-io/ctmodbus) - A tool to interact with the Modbus protocol
 - [Malmod](https://github.com/mliras/malmod) - Scripts to attack Modicon M340 via UMAS
 - [mbtget](https://github.com/sourceperl/mbtget) - A simple Modbus/TCP client in Perl
