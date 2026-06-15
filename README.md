@@ -15,7 +15,7 @@ unless it has been accidentally made public by the source. We do not take
 responsibility for any such inadvertent disclosures. Moreover, although the
 resources added to this page are always manually checked, not all resources
 linked here (especially tools) have been tested. Please remain careful when
-using them and don't run untrusted code on your installation.
+using them and **don't run untrusted code on your installation**.
 
 > Note: Sometimes it is unclear whether a name refers to a protocol, a standard,
 or a complete environment, or if a protocol on a serial link can be accessed
@@ -1344,11 +1344,48 @@ Currently, there are **75 protocols** with a total of 401 resources.
 - [KillerBee](https://github.com/riverloopsec/killerbee) - IEEE 802.15.4/ZigBee Security Research Toolkit
 - [Mirage](https://github.com/RCayre/mirage) - Framework dedicated to the security analysis of wireless communications
 
-> If you wish to contribute, you can directly edit the README, and I will import
-the new content into the MongoDB database files (located in `db`). Since the
-pages are generated automatically from the databases using a custom tool,
-there may be some differences between your submission and the final pages that
-include it.
+---
+
+## Usage notice
+
+The resources and tools linked within this repository are provided for
+informational and educational purposes only. Users are advised to exercise
+caution before executing or deploying any tools listed here.
+
+All resources provided here are publicly available and accessible to
+anyone. There is no confidential or private information included unless it has
+been accidentally made public by the source. We do not take responsibility for
+any such inadvertent disclosures.
+
+The majority of tools included are fully open source, allowing users to verify
+their code for malicious intent. While we perform a preliminary review of the
+content and code prior to inclusion, we do not conduct comprehensive security
+audits of each tool. Some tools may not be open source but are included based on
+their reputation within the community. Therefore, **users should independently
+verify the safety and integrity of any tool before use**.
+
+> If you encounter any issues or suspect malicious activity related to a tool
+listed in this repository, please report it so that the list can be updated
+accordingly.
+
+## Contribute
+
+Contributions are welcome. If you wish to contribute, you can directly edit the
+README, and we will import the new content into the MongoDB database files
+(located in `db`). Since the pages are generated automatically from the
+databases using a custom tool, there may be some differences between your
+submission and the final pages that include it.
+
+We accept submissions of commercial tools as well, provided they are beneficial
+to the community, such as offering valuable features or free access. We do not
+accept or promote commercial tools that require payment or financial
+compensation for inclusion. Sponsorships or paid endorsements are not accepted,
+the list is curated independently to ensure impartiality.
+
+We reserve the right to remove or reject resources that do not adhere to these
+principles or that we consider inappropriate.
+
+---
 
 **awesome-industrial-protocols** is licensed under
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
