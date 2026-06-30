@@ -398,3 +398,5 @@
 {"_id":{"$oid":"69b29eae4b195482f551fc76"},"name":"packet-artnet.c","url":"https://github.com/wireshark/wireshark/blob/master/epan/dissectors/packet-artnet.c","description":"Wireshark dissector for Art-Net","type":"tool"}
 {"_id":{"$oid":"69b29ee697b45c52de241f8c"},"name":"packet-acn.c","url":"https://github.com/wireshark/wireshark/blob/master/epan/dissectors/packet-acn.c","description":"Wireshark dissector for sACN","type":"tool"}
 {"_id":{"$oid":"69b29efcac3ee86b93322999"},"name":"packet-osc.c","url":"https://github.com/wireshark/wireshark/blob/master/epan/dissectors/packet-osc.c","description":"Wireshark dissector for OpenSoundControl","type":"tool"}
+{"_id":{"$oid":"6a2fb586e6625e4dd63c4645"},"name":"aem-modbus-simulator","url":"https://github.com/leaberg69/aem-modbus-simulator","description":"Open-source Modbus RTU/TCP slave simulator for the LRI AEM-60DC8 industrial DC monitor","type":"tool"}
+{"_id":{"$oid":"6a43723e0198b04c19416710"},"name":"modbus-server","url":"https://github.com/cybcon/modbus-server","description":"Lightweight Python Modbus TCP/UDP slave simulator","type":"tool"}

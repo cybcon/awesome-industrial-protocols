@@ -26,7 +26,7 @@ remarks or contributions.
 ## Contents
 
 
-Currently, there are **75 protocols** with a total of 401 resources.
+Currently, there are **75 protocols** with a total of 402 resources.
 - [ADS](#ads)
 - [ANSI-C12.22](#ansi-c1222)
 - [Art-Net](#art-net)
@@ -907,7 +907,7 @@ Currently, there are **75 protocols** with a total of 401 resources.
 - [ctmodbus](https://github.com/ControlThings-io/ctmodbus) - A tool to interact with the Modbus protocol
 - [Malmod](https://github.com/mliras/malmod) - Scripts to attack Modicon M340 via UMAS
 - [mbtget](https://github.com/sourceperl/mbtget) - A simple Modbus/TCP client in Perl
-- [modbus-server](https://github.com/cybcon/modbus-server) - Lightweight Python Modbus TCP/UDP slave simulator with Docker image, register persistence and Prometheus metrics endpoint
+- [modbus-server](https://github.com/cybcon/modbus-server) - Lightweight Python Modbus TCP/UDP slave simulator
 - [PyModbus](https://github.com/pymodbus-dev/pymodbus) - A full modbus protocol written in python
 
 

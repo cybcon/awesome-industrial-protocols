@@ -41,4 +41,5 @@
 - [ctmodbus](https://github.com/ControlThings-io/ctmodbus) - A tool to interact with the Modbus protocol
 - [Malmod](https://github.com/mliras/malmod) - Scripts to attack Modicon M340 via UMAS
 - [mbtget](https://github.com/sourceperl/mbtget) - A simple Modbus/TCP client in Perl
+- [modbus-server](https://github.com/cybcon/modbus-server) - Lightweight Python Modbus TCP/UDP slave simulator
 - [PyModbus](https://github.com/pymodbus-dev/pymodbus) - A full modbus protocol written in python
